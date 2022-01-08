@@ -43,3 +43,20 @@ Aperte o botão de boot do Raspberry Pico e conecte o cabo USB no seu PC.
 Para compliar e gravar no Raspberry Pico, dê o comando abaixo. 
 
 tinygo flash -target=pico main.go
+
+
+
+Site do TinyGo no Github
+
+https://github.com/tinygo-org
+
+TinyGo - Go compiler for small places
+
+https://github.com/tinygo-org/tinygo
+
+Drivers:
+
+https://github.com/tinygo-org/drivers
+
+Visual Studio Code support for TinyGo
+https://github.com/tinygo-org/vscode-tinygo
